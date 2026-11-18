@@ -1,5 +1,5 @@
 ---
-Welcome to my blog!
+title: Welcome to my blog!
 ---
 <h1>Day 1</h1>
 
